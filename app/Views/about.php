@@ -2,5 +2,5 @@
 
 <?= $this->section('content') ?>
 <h1>About</h1>
-<p>This is a basic Point-of-Sale website built with CodeIgniter 4.</p>
+<p>About page by: Maniquiz Ifan Jon T. TC36</p>
 <?= $this->endSection() ?>
